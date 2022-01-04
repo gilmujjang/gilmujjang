@@ -1,16 +1,27 @@
-### Hi there 👋
+<a href="https://velog.io/@alsanrlf" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://gilmujjang.develofolio.com/" target="_blank"><img src="https://img.shields.io/badge/notion-111111?style=flat-square&logo=notion&logoColor=white"/></a>
 
-<!--
-**gilmujjang/gilmujjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi i am junior front-end developer Mu gil:wave:
 
-Here are some ideas to get you started:
+Youtube and Google raised me :baby:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :muscle: Skills
+
+Languages
+
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
+<img alt="css3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black">
+<img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+Frameworks & Libraries
+
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black">
+<img alt="redux saga" src="https://img.shields.io/badge/redux saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=black">
+<img alt="react router" src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+<img alt="cypress" src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+
+<img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=radical)
