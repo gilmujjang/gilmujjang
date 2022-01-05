@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilmujjang&count_bg=%2361DAFB&title_bg=%235A5A5A&icon=react.svg&icon_color=%2361DAFB&title=hits&edge_flat=false)](https://github.com/gilmujjang)
 
 <a href="https://velog.io/@alsanrlf" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://gilmujjang.develofolio.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=notion&logoColor=white"/></a>
