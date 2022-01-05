@@ -1,13 +1,25 @@
+<style type='text/css'>
+  [class*="box"] { display: flex;}
+</style>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilmujjang&count_bg=%2361DAFB&title_bg=%235A5A5A&icon=react.svg&icon_color=%2361DAFB&title=hits&edge_flat=false)](https://github.com/gilmujjang)
 
 <a href="https://velog.io/@alsanrlf" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://gilmujjang.develofolio.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=notion&logoColor=white"/></a>
 
+<div class="box">
+<div>
 Hi i am junior front-end developer Mu gil:wave:
 
 Youtube and Google raised me :baby:
 
-My hobby is Tennis :tennis:
+My hobby is Tennis :tennis:</div>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=vue">
+</img>
+</div>
+</div>
 
 ## :muscle: Skills
 
@@ -31,5 +43,4 @@ Frameworks & Libraries
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=vue)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsanrlf)](https://solved.ac/alsanrlf)
