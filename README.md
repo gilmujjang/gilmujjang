@@ -31,4 +31,4 @@ Frameworks & Libraries
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=vue)
