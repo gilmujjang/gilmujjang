@@ -32,10 +32,6 @@ Frameworks & Libraries
 </p>
 
 <div style="display: flex;">
-  <div>
     <img src="[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsanrlf)](https://solved.ac/alsanrlf)"/>
-  </div>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=vue"/>
-  </div>
 </div>
