@@ -31,7 +31,10 @@ Frameworks & Libraries
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<div style="display: flex;">
-    <img src="[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsanrlf)](https://solved.ac/alsanrlf)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=vue"/>
-</div>
+<table>
+  <tr>
+    <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsanrlf"/>
+  </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=vue"/></td>
+  </tr>
+</table>
