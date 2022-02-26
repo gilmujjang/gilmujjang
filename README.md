@@ -8,12 +8,15 @@ Youtube and Google raised me :baby:
 
 My hobby is Tennis :tennis:
 
+I participated in wanted Free/Pre OnBoarding Course #frontend 22_01
+
 ## :muscle: Skills
 
 Languages
 
 <p align="left">
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="typescript" src="https://img.shields.io/badge/typescript-007FFF?style=for-the-badge&logo=typescript&logoColor=black">
 <img alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
 <img alt="css3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black">
 <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
