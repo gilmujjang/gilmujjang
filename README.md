@@ -10,6 +10,8 @@ My hobby is Tennis :tennis:
 
 I participated in wanted Free/Pre OnBoarding Course #frontend 22_01
 
+This is my [resume](https://www.notion.so/Maker-c0f07521bd90445195bb96d82e6c3a91)
+
 ## :muscle: Skills
 
 Languages
