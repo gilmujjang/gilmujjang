@@ -2,15 +2,13 @@
 <a href="https://velog.io/@alsanrlf" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://gilmujjang.develofolio.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=notion&logoColor=white"/></a>
 
-Hi i am junior front-end developer Mu gil:wave:
+안녕하세요 주니어 프론트엔드 개발자 민무길 입니다
 
-Youtube and Google raised me :baby:
+유튜브와 구글링으로 공부했습니다 :baby:
 
-My hobby is Tennis :tennis:
+테니스 5년 쳤습니다 :tennis:
 
-I participated in wanted Free/Pre OnBoarding Course #frontend 22_01
-
-This is my [resume](https://www.notion.so/Maker-c0f07521bd90445195bb96d82e6c3a91)
+[이력서](https://www.notion.so/Maker-c0f07521bd90445195bb96d82e6c3a91) 입니다
 
 ## :muscle: Skills
 
