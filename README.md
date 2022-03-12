@@ -6,8 +6,6 @@
 
 유튜브와 구글링으로 공부했습니다 :baby:
 
-테니스 5년 쳤습니다 :tennis:
-
 [이력서](https://www.notion.so/Maker-c0f07521bd90445195bb96d82e6c3a91) 입니다
 
 ## :muscle: Skills
