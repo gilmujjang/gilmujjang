@@ -1,34 +1,29 @@
+ 안녕하세요 슈가힐의 프론트엔드 개발자 민무길 입니다. 👦: (since 2022.04)
 
-<a href="https://velog.io/@alsanrlf" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://gilmujjang.develofolio.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-111111?style=flat-square&logo=notion&logoColor=white"/></a>
+기계시스템 공학과에 재학중 개발이 재밌어 유튜브와 구글링으로 공부했습니다.
 
-안녕하세요 주니어 프론트엔드 개발자 민무길 입니다
-
-유튜브와 구글링으로 공부했고 현재 슈가힐의 프론트엔드 개발자 입니다. :baby: (since 2022.04)
-
-## :muscle: Skills
-
-Languages
+## Languages
 
 <p align="left">
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007FFF?style=for-the-badge&logo=typescript&logoColor=black">
-<img alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
-<img alt="css3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black">
-<img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
-Frameworks & Libraries
-
+## Frameworks & etc
 <p align="left">
-<img alt="react" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img alt="redux" src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black">
-<img alt="redux saga" src="https://img.shields.io/badge/redux saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=black">
-<img alt="react router" src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-<img alt="cypress" src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-<img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img alt="react native" src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img alt="next" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
+## Products
+
+<p><a href="https://play.google.com/store/apps/details?id=kr.co.sugarhill.nemoapp&hl=ko&gl=US&pli=1" target="_blank">네모앱 (안드로이드)</a></p>
+<p><a href="https://apps.apple.com/sa/app/%EB%84%A4%EB%AA%A8-%EC%83%81%EA%B0%80-%EC%82%AC%EB%AC%B4%EC%8B%A4-%EC%B0%BD%EC%97%85%ED%95%A0-%EB%95%8C-%EB%84%A4%EB%AA%A8/id1209888606?l=ar" target="_blank">네모앱 (ios)</a></p>
+<p><a href="https://www.nemoapp.kr/store" target="_blank">네모 웹서비스<a/></p>
+<p>네모CRM (사내 백오피스 시스템)</p>
 <table>
   <tr>
     <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsanrlf"/>
@@ -36,3 +31,4 @@ Frameworks & Libraries
     <td><img src="https://github-readme-stats.vercel.app/api?username=gilmujjang&show_icons=true&theme=vue"/></td>
   </tr>
 </table>
+
